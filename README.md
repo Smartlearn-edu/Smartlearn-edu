@@ -1,6 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on Moodle development, custom plugins, and AI-powered educational tools<br>👯 I’m looking to collaborate on EdTech, Moodle automation, and AI integrations for learning platforms<br>🤝 I’m looking for help with advanced AI workflows, scalable architectures, and performance optimization<br>🌱 I’m currently learning AI agents, automation systems (n8n), and modern DevOps practices<br>💬 Ask me about Moodle installation, migration, troubleshooting, plugin development, and Ubuntu server setups<br>⚡ Fun fact: I turn complex Moodle problems into automated solutions whenever possible
+# Mohammad – Moodle Expert | LMS Developer | AI & Automation Specialist
 
+I help schools, academies, and course creators build and scale Moodle LMS platforms.
+
+## 🚀 What I Do
+- Moodle installation, migration, and upgrades
+- Custom plugin development
+- Fixing complex Moodle issues
+- LMS UI/UX customization
+- AI integration into Moodle
+- Automation using n8n
+
+## 🧠 تخصصي
+- Moodle core & database structure
+- Plugin development (enrol, local, block, tool)
+- AI + LMS workflows
+- Ubuntu + aaPanel servers
+
+## 💼 Experience
+- 65+ clients worldwide
+- Founder of SmartLearn
+- Multiple published Moodle plugins
+
+## 🔗 Website
+https://home.smartlearn.education/
+
+## 📩 Contact
+Available for freelance & long-term projects
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smartlearn.education-lms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad@smartlearn.education) 
