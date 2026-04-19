@@ -11,7 +11,7 @@ I help schools, academies, and course creators build and scale Moodle LMS platfo
 - AI integration into Moodle
 - Automation using n8n
 
-## 🧠 تخصصي
+## 🧠 
 - Moodle core & database structure
 - Plugin development (enrol, local, block, tool)
 - AI + LMS workflows
